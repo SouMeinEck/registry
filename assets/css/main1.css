@@ -186,7 +186,7 @@
 	}
 
 	h2 {
-		font-size: 1.5rem;
+		font-size: 1rem;
 		line-height: 1.4;
 		letter-spacing: 0.05rem;
 	}
@@ -1090,7 +1090,7 @@
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;			
-			background-image: url("../../images/wedding1.jpg");
+			background-image: url("../../images/wedding3.jpg");
 			background-position: center;
 			background-size: 650px auto;
 			background-repeat: no-repeat;
